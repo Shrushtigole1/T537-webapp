@@ -4,7 +4,7 @@ environment{
 REPOSITORY = 'webapp'
 IMAGE_NAME = 'webapp'
 IMAGE_TAG = "${BUILD_NUMBER}"
-USERNAME = 'shrushtigole'
+USERNAME = 'shrushtigole1'
 }
 stages{
 stage("Checkout"){
